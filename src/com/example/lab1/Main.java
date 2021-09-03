@@ -11,7 +11,6 @@ public class Main {
 	System.out.print("이름 입력 : ");
 	String name = s.next();
 	System.out.print("["+name+"]님 환영합니다~");
-	
 	}
 
 }
